@@ -6,6 +6,6 @@ keywords = ["pubsub"]
 license = "MIT"
 authors = ["Mako <jlauve@rsmw.net>"]
 repository = "https://github.com/malleusinferni/rust-alewife"
-documentation = "https://malleusinferni.github.io/rust-alewife/"
+documentation = "https://malleusinferni.github.io/rust-alewife/alewife/"
 
 [dependencies]

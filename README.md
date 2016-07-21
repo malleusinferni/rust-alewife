@@ -62,3 +62,5 @@ fn main() {
     std::thread::sleep(std::time::Duration::from_secs(1));
 }
 ```
+
+More detailed documentation is [available online](https://malleusinferni.github.io/rust-alewife/alewife/).
