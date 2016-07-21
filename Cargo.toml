@@ -1,0 +1,11 @@
+[package]
+name = "alewife"
+version = "0.0.2"
+description = "An async publish-subscribe message bus."
+keywords = ["pubsub"]
+license = "MIT"
+authors = ["Mako <jlauve@rsmw.net>"]
+repository = "https://github.com/malleusinferni/rust-alewife"
+documentation = "https://malleusinferni.github.io/rust-alewife/"
+
+[dependencies]
